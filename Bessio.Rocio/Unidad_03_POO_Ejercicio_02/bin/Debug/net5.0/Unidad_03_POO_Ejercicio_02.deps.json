@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unidad_03_POO_Ejercicio_02/1.0.0": {
+        "dependencies": {
+          "MiBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Unidad_03_POO_Ejercicio_02.dll": {}
+        }
+      },
+      "MiBiblioteca/1.0.0": {
+        "runtime": {
+          "MiBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unidad_03_POO_Ejercicio_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
