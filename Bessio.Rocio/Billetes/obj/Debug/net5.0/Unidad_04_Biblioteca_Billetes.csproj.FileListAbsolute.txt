@@ -1,0 +1,12 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\bin\Debug\net5.0\Unidad_04_Biblioteca_Billetes.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\bin\Debug\net5.0\Unidad_04_Biblioteca_Billetes.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\bin\Debug\net5.0\ref\Unidad_04_Biblioteca_Billetes.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\bin\Debug\net5.0\Unidad_04_Biblioteca_Billetes.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\ref\Unidad_04_Biblioteca_Billetes.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Billetes\obj\Debug\net5.0\Unidad_04_Biblioteca_Billetes.pdb

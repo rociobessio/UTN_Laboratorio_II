@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unidad_05_WinForm_Ejercicio_C02/1.0.0": {
+        "dependencies": {
+          "Unidad_04_SobreCarg_Ejercicio_A01": "1.0.0"
+        },
+        "runtime": {
+          "Unidad_05_WinForm_Ejercicio_C02.dll": {}
+        }
+      },
+      "Unidad_04_SobreCarg_Ejercicio_A01/1.0.0": {
+        "runtime": {
+          "Unidad_04_SobreCarg_Ejercicio_A01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unidad_05_WinForm_Ejercicio_C02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unidad_04_SobreCarg_Ejercicio_A01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

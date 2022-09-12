@@ -38,7 +38,7 @@ namespace Billetes
         /// </summary>
         static Euro()
         {
-            cotizarRespectoDolar = 1/1.08;//1 Euro equivale a 1,17 Dólares 
+            cotizarRespectoDolar = 0.89;//1 Euro equivale a 1,17 Dólares 
         }
 
         public Euro(double cantidad, double cotizacion) :this (cantidad)

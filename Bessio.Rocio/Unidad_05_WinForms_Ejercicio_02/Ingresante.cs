@@ -34,7 +34,7 @@ namespace Unidad_05_WinForms_Ejercicio_02
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"EL NOMBRE ES:{this.nombre},\nLA EDAD ES:{edad},\nSU GENERO ES:{genero},\nEL PAIS ES:{pais},\nLA DIRECCION ES:{direccion},\nEL/LOS  CURSO/S: {this.cursos} ");
+            sb.AppendLine($"NOMBRE: {this.nombre}\nEDAD: {this.edad}\nGENERO: {this.genero}\nPAIS: {this.pais}\nDIRECCION: {this.direccion}\nCURSO/S: {this.cursos} ");
 
             return sb.ToString();
         }

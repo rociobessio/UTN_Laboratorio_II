@@ -33,7 +33,24 @@ namespace Unidad_05_WinForms_Ejercicio_02
             string direccion = txtDireccion.Text.ToString();
             int edad = (int)numEdad.Value;
             string pais = listbPaises.SelectedItem.ToString();
-            string[] curso = {cbC.Text, cbCSharp.Text, cbJavaScript.Text};
+            string[] curso = {};
+
+            for (int i = 0;i < curso.Length;i++)
+            {
+                if(cbC.Checked == true)
+                {
+                    curso[i] = "C";
+                }
+                else if (cbCSharp.Checked == true)
+                {
+                    curso[i] = "C#";
+                }
+                else if(cbJavaScript.Checked ==true)
+                {
+                    curso[i] = "JavaScript";
+                }
+            }
+
             string genero;
             if (rbFemenino.Checked)
             {

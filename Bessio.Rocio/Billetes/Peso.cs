@@ -38,7 +38,7 @@ namespace Billetes
         /// </summary>
         static Peso()
         {
-            cotizarRespectoDolar = 102.65;//y 1 Dólar equivale a 102,65 Pesos. 
+            cotizarRespectoDolar = 0.023;//y 1 Dólar equivale a 102,65 Pesos. 
         }
 
         public Peso(double cantidad, double cotizacion) : this(cantidad)

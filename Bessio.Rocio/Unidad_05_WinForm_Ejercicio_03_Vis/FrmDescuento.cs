@@ -41,6 +41,7 @@ namespace Unidad_05_WinForm_Ejercicio_03_Vis
             txtTotalPagar.Enabled = false;
         }
 
+
         private void txtTotalPagar_TextChanged(object sender, EventArgs e)
         {
 
