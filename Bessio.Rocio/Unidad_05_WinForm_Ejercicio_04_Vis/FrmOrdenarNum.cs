@@ -39,18 +39,30 @@ namespace Unidad_05_WinForm_Ejercicio_04_Vis
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-             listBoxNum.Items.Clear();
-             txtNumIngresado.Text = "";
-             rBtnAsc.Checked = false;
-             rBtnDesc.Checked = false;
-            /* foreach (var item in this.listBoxNum.Controls)//Limpio con el foreach las 3 text box del form
+            foreach(Control gbControls in this.Controls)
              {
-                 if (item.GetType() == typeof(ListBox))
-                 {
-                     ListBox t1 = item as ListBox;
-                    t1.Items.Clear();
-                 }
-             }*/
+                if(gbControls is GroupBox)//Si encuentro groupbox dentro del form 
+                {
+                    foreach (Control item in gbControls.Controls)//recorro los groupbox
+                    {
+                        if (item is ListBox lista)//El is nos permite crear una variable
+                        {
+                            lista.Items.Clear();
+                            continue;//Si es, fuerzo la siguiente iteracion y no tengo en cuenta los siguientes IFs
+                        }
+                        if (item is TextBox txtB)
+                        {
+                            txtB.Clear();
+                            continue;
+                        }
+                        if (item is RadioButton rdButon)
+                        {
+                            rdButon.Checked = false ;
+                            continue;
+                        }
+                    }
+                }
+             }
         }
 
         private void btnOrdenar_Click(object sender, EventArgs e)

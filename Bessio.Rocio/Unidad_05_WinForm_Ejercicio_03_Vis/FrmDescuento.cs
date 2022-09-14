@@ -86,13 +86,22 @@ namespace Unidad_05_WinForm_Ejercicio_03_Vis
         /// <param name="e"></param>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            foreach(var item in this.groupBox1.Controls)//Limpio con el foreach las 3 text box del form
+            //El foreach garantiza que al momento de buscar un indice de array sin saltear ninguno y desbordar 
+            //Primero recibe EL TIPO Y NOMBRE DE LA VARIABLE, in (sobre que coleccion se recorre) 
+
+            //Se tienen que recorrer controles
+            foreach(Control item in this.groupBox1.Controls)//Limpio con el foreach las 3 text box del form que estan alojadas en el GROUPBOX
             {
-                if(item.GetType() == typeof(TextBox))
+                if (item is TextBox)//Operador is indica si la variable es del tipo que coloco a la derecha, devuelve true or false
                 {
-                    TextBox t1 = item as TextBox;
-                    t1.Text = "";
+                    //Casteo el control a textbox
+                    ((TextBox)item).Clear();
                 }
+                /*if(item.GetType() == typeof(TextBox))
+                {
+                    TextBox t1 = item as TextBox;//Con estructuras
+                    t1.Text = "";
+                }*/
             }
         }
 
