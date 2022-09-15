@@ -8,7 +8,12 @@ using System.Threading.Tasks;
  *                          A CALENTAR MOTORES
  *                   --------------------------------
  *                     UNIDAD 06 - COLECCIONES - C02
- *                                                  
+
+ Consigna:
+        - Al generar un auto se cargará el atributo enCompetencia como falso. Inicializar cantidadCombustible
+          y vueltasRestantes en 0.
+        - Dos autos serán iguales si los atributos número y escuderia son iguales.
+        - Realizar los métodos getters y setters para cantidadCombustible , enCompetencia y vueltasRestantes.
  *                                                  
  */
 namespace MiBiblioteca
@@ -68,7 +73,7 @@ namespace MiBiblioteca
 
         public static bool operator !=(AutoF1 a1, AutoF1 a2)
         {
-            return !(a1 == a2);
+            return !(a1.numero == a2.numero && a1.escuderia == a2.escuderia);
         }
         #endregion
 
