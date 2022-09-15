@@ -11,7 +11,7 @@ namespace Unidad_06_Colecc_Ejercicio_C01
 
             Jugador j1 = new Jugador(456,"Juan",4,6);
             Jugador j2 = new Jugador(56, "GianFranco", 0, 11);
-            Jugador j3 = new Jugador(695, "Tomi", 2, 1);
+            Jugador j3 = new Jugador(695, "Tomi", 10, 2);
             Jugador j4 = new Jugador(7892, "Agus", 7, 10);
             Jugador j5 = new Jugador(563, "JuanCruz", 4, 3);
             #endregion
@@ -29,7 +29,7 @@ namespace Unidad_06_Colecc_Ejercicio_C01
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO A ",j3.MostrarDatos());
+                Console.WriteLine("NO SE AGREGO A "+ j3.MostrarDatos());
             }
 
             if (equipoList + j4)//Se fija si esta en el equipo y añade a la lista si [NO] esta
@@ -38,7 +38,7 @@ namespace Unidad_06_Colecc_Ejercicio_C01
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO A ", j3.MostrarDatos());
+                Console.WriteLine("NO SE AGREGO A " + j4.MostrarDatos());
             }
 
             if (equipoList + j5)//Se fija si esta en el equipo y añade a la lista si [NO] esta
