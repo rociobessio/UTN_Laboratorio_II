@@ -1,0 +1,15 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\Unidad_01_Metodos_Explicacion.exe
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\Unidad_01_Metodos_Explicacion.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\Unidad_01_Metodos_Explicacion.runtimeconfig.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\Unidad_01_Metodos_Explicacion.runtimeconfig.dev.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\Unidad_01_Metodos_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\ref\Unidad_01_Metodos_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\bin\Debug\net5.0\Unidad_01_Metodos_Explicacion.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\ref\Unidad_01_Metodos_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_01_Metodos_Explicacion\obj\Debug\net5.0\Unidad_01_Metodos_Explicacion.genruntimeconfig.cache

@@ -28,3 +28,4 @@ C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\B
 C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_02_Clases_Ejercicio_04\obj\Debug\net5.0\ref\Unidad_02_Clases_Ejercicio_04.dll
 C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_02_Clases_Ejercicio_04\obj\Debug\net5.0\Unidad_02_Clases_Ejercicio_04.pdb
 C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_02_Clases_Ejercicio_04\obj\Debug\net5.0\Unidad_02_Clases_Ejercicio_04.genruntimeconfig.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_02_Clases_Ejercicio_04\obj\Debug\net5.0\Unidad_02_Clases_Ejercicio_04.csproj.AssemblyReference.cache

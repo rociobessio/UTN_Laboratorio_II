@@ -13,71 +13,114 @@ namespace Unidad_06_Colecc_Ejercicio_01_Vis
     {
         static void Main(string[] args)
         {
-            #region CREO LAS 5 TEMPERAS
-            Tempera t1 = new Tempera(ConsoleColor.Red, "Alba", 50);
-            Tempera t2 = new Tempera(ConsoleColor.Blue, "Alba", 50);
-            Tempera t3 = new Tempera(ConsoleColor.Red, "Alba", 25);
-            Tempera t4 = new Tempera(ConsoleColor.Black, "Pinturita", 50);
-            Tempera t5 = new Tempera(ConsoleColor.Green, "Temperita", 50);
-            #endregion
+            #region TEMPERAS TIMEEEEEEE
+            Tempera tempera1 = new Tempera(ConsoleColor.Red, "Alba", 50);
+            Tempera tempera2 = new Tempera(ConsoleColor.Blue, "Alba", 50);
+            Tempera tempera3 = new Tempera(ConsoleColor.Red, "Alba", 25);
+            Tempera tempera4 = new Tempera(ConsoleColor.Black, "Pinturita", 50);
+            Tempera tempera5 = new Tempera(ConsoleColor.Green, "Temperita", 50);
 
-            #region COMPARAR (temperas)
-            Console.WriteLine("COMPARACION DE OPERADOR == (Tempera,Tempera)");
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("Es la tinta1 igual a tinta2?: ");
-            Console.WriteLine(t1 == t2); 
-            Console.WriteLine("\n Datos de la Temp1");
-            Console.WriteLine("-----------------------");
-            Console.WriteLine(Tempera.Mostrar(t1));
-            Console.WriteLine("Datos de la Temp2");
-            Console.WriteLine("-----------------------");
-            Console.WriteLine(Tempera.Mostrar(t2));
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("Es la tinta1 igual a tinta3?: ");
-            Console.WriteLine(t1 == t3);
-            Console.WriteLine("\n Datos de la Temp1");
-            Console.WriteLine("-----------------------");
-            Console.WriteLine(Tempera.Mostrar(t1));
-            Console.WriteLine("\n Datos de la Temp3");
-            Console.WriteLine("-----------------------");
-            Console.WriteLine(Tempera.Mostrar(t3));
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("Es la tinta1 igual a tinta4?: ");
-            Console.WriteLine(t1 == t4);
-            Console.WriteLine("\n Datos de la Temp1");
-            Console.WriteLine("-----------------------");
-            Console.WriteLine(Tempera.Mostrar(t1));
-            Console.WriteLine("\n Datos de la Temp4");
-            Console.WriteLine("-----------------------");
-            Console.WriteLine(Tempera.Mostrar(t4));
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("Es la tinta1 igual a null?: ");
-            Console.WriteLine(t1 == null);
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("Es la null igual a tinta4?: ");
-            Console.WriteLine(null == t1);
-            Console.WriteLine("------------------------------------------------");
-            #endregion
+           /* Console.WriteLine(tempera1 == tempera2);
+            Console.WriteLine(tempera1 == tempera3);
+            Console.WriteLine(tempera1 == tempera4);
+            Console.WriteLine(tempera1 == null);
+            Console.WriteLine(null == tempera1);
 
-            #region SUMAR (Tempera, Tempera)
-            Console.WriteLine("\n\n    SOBRECARGA DEL OPERADOR + (Tempera,Tempera)");
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("La suma entre la tinta1 y tinta2 es: ");
-            Console.WriteLine(t1 + t2);
-            Console.Write("La suma entre la tinta1 y tinta3 es: ");
-            Console.WriteLine(t1 + t3);
-            Console.Write("La suma entre la tinta1 y tinta4 es: ");
-            Console.WriteLine(t1 + t4);
-            Console.Write("La suma entre la tinta1 y null es: ");
-          //  Console.WriteLine(t1 + null);
+            Console.WriteLine(tempera1 + tempera2);
+            Console.WriteLine(tempera1 + tempera3);
+            Console.WriteLine(tempera1 + tempera4);
+            Console.WriteLine(tempera1 + null);
+
+            Console.WriteLine(tempera1 + 20);
+            Console.WriteLine(tempera2 + 30);
             #endregion
-            #region SUMAR (Tempera,int)
-            Console.WriteLine("\n\n    SOBRECARGA DEL OPERADOR + (Tempera,int)");
-            Console.WriteLine("------------------------------------------------");
-            Console.Write("La suma entre la tinta1 y 20 es: ");
-            Console.WriteLine(t1 + 20);
-            Console.Write("La suma entre la tinta2 y 30 es: ");
-            Console.WriteLine(t1 + 30);
+           */
+            #region PALETA TIMEEEEEEEE
+            Paleta lista = 3;
+
+            Console.WriteLine(lista == tempera1);
+
+            Console.WriteLine("suma\n");
+
+            lista += tempera1;
+            Console.WriteLine((string)lista);
+            Console.WriteLine(" ");
+
+            lista += tempera2;
+            Console.WriteLine((string)lista);
+            Console.WriteLine(" ");
+
+            /* lista += tempera3;
+             Console.WriteLine((string)lista);
+             Console.WriteLine(" ");
+
+             lista += tempera4;
+             Console.WriteLine((string)lista);
+             Console.WriteLine(" ");
+
+             lista += tempera5;
+             Console.WriteLine((string)lista);
+             Console.WriteLine(" ");
+
+
+
+             Console.WriteLine("restaa\n");
+
+             lista -= tempera1;
+             Console.WriteLine((string)lista);
+             Console.WriteLine(" ");
+
+             lista -= tempera2;
+             Console.WriteLine((string)lista);
+             Console.WriteLine(" ");
+
+             lista -= tempera5;
+             Console.WriteLine((string)lista);
+             Console.WriteLine(" ");
+
+
+             Paleta lista2 = 2;
+
+             Console.WriteLine("segunda lista\n");
+
+             lista2 += tempera1;
+             Console.WriteLine((string)lista2);
+             Console.WriteLine(" ");
+
+             lista2 += tempera2;
+             Console.WriteLine((string)lista2);
+             Console.WriteLine(" ");
+
+             lista2 += tempera3;
+             Console.WriteLine((string)lista2);
+             Console.WriteLine(" ");
+
+             lista2 += tempera4;
+             Console.WriteLine((string)lista2);
+             Console.WriteLine(" ");
+
+             lista2 += tempera5;
+             Console.WriteLine((string)lista2);
+             Console.WriteLine(" ");
+
+             Console.WriteLine("lista unidas\n");
+
+             lista = lista + lista2;
+             Console.WriteLine((string)lista);
+            */
+            Tempera tempAux = lista[0];
+
+            Console.WriteLine(Tempera.Mostrar(tempAux));
+
+            Console.WriteLine(lista[-5]);
+            Console.WriteLine(lista[55]);
+
+            lista[0] = new Tempera(ConsoleColor.Black, "sadsasd", 100);
+            Console.WriteLine(Tempera.Mostrar(lista[0]));
+            lista[-5] = tempera2;
+
+
+            #endregion
             #endregion
 
         }

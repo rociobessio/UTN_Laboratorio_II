@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v5.0": {
       "Unidad_04_SobreCarg_Ejercicio_C01/1.0.0": {
         "dependencies": {
-          "ConversorBinRecargado_Unidad_04": "1.0.0"
+          "Unidad_04_ConversorBinRecargado": "1.0.0"
         },
         "runtime": {
           "Unidad_04_SobreCarg_Ejercicio_C01.dll": {}
         }
       },
-      "ConversorBinRecargado_Unidad_04/1.0.0": {
+      "Unidad_04_ConversorBinRecargado/1.0.0": {
         "runtime": {
-          "ConversorBinRecargado_Unidad_04.dll": {}
+          "Unidad_04_ConversorBinRecargado.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ConversorBinRecargado_Unidad_04/1.0.0": {
+    "Unidad_04_ConversorBinRecargado/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

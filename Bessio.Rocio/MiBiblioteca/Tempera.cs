@@ -43,15 +43,25 @@ namespace MiBiblioteca
         #region BOOLEANOS
         public static bool operator == (Tempera t1,Tempera t2)
         {
-            if ((object)t1 == null)
+            bool isNull = false;
+            //Si no verifico el null cuando quiera usar me tira error en tiempo de ejecucion
+            /*   if ((object)t1 == null)//Si es nulo comparo con la 2
+               {
+                   return (object)t1 == null;
+               }
+               if ((object)t2 == null)//Si es nulo
+               {
+                   return (object)t2 == null;
+               }*///Si las dos son null devuelve true
+            if (t1 is not null && t2 is not null)//Si NINGUNO es NULL entonces comparo directamente
             {
-                return (object)t1 == null;
+                isNull = t1.marca == t2.marca && t1.color == t2.color;
             }
-            if ((object)t2 == null)
+            else if(t1 is null && t2 is null)//Si son null devuelve true
             {
-                return (object)t2 == null;
+                isNull = true;
             }
-            else return t1.marca == t2.marca && t1.color == t2.color;
+             return isNull;
         }
 
         public static bool operator !=(Tempera t1,Tempera t2)
@@ -71,10 +81,11 @@ namespace MiBiblioteca
         {
             if(t1 == t2)
             {
-                //t1.cantidad++;
-                t1.cantidad += t2.cantidad;
+                //Puedo hacer esto: t1.cantidad += t2.cantidad;//Acumulo
+                //o REUTILIZO CODIGO DE LA SOBRECARGA DEL SEGUNDO OPERADOR +, le paso la t1 y la cantidad de t2 
+                t1 += t2.cantidad;//Acumulo
             }
-            return t1;
+            return t1;//retorno la tempera1
         }
 
         /// <summary>
@@ -98,7 +109,8 @@ namespace MiBiblioteca
         /// <param name="t"></param>
         public static implicit operator int(Tempera t)
         {
-            return (int)t;
+            //Es como un if, primer parte condicion, ?, : ess el else
+            return t is null ? 0 : t.cantidad;//Retorno la cantidad de la tempera
         }
         #endregion
 
@@ -111,7 +123,7 @@ namespace MiBiblioteca
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"Color Tempera: {this.color}\nCantidad Tempera: {this.cantidad}\nMarca Tempera: {this.marca}");
+            sb.AppendLine($"Color Tempera: {this.color}\n Cantidad Tempera: {this.cantidad}\n Marca Tempera: {this.marca}");
 
             return sb.ToString();
         }
@@ -126,5 +138,6 @@ namespace MiBiblioteca
             return t.Mostrar();
         }
         #endregion
+
     }
 }

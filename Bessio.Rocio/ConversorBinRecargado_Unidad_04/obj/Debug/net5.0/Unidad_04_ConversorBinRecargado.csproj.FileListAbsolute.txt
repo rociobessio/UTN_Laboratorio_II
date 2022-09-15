@@ -1,0 +1,12 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\bin\Debug\net5.0\Unidad_04_ConversorBinRecargado.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\bin\Debug\net5.0\Unidad_04_ConversorBinRecargado.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\bin\Debug\net5.0\ref\Unidad_04_ConversorBinRecargado.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\bin\Debug\net5.0\Unidad_04_ConversorBinRecargado.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\ref\Unidad_04_ConversorBinRecargado.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\ConversorBinRecargado_Unidad_04\obj\Debug\net5.0\Unidad_04_ConversorBinRecargado.pdb

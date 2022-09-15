@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unidad_06_Colecc_Ejercicio_C01/1.0.0": {
+        "dependencies": {
+          "MiBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Unidad_06_Colecc_Ejercicio_C01.dll": {}
+        }
+      },
+      "MiBiblioteca/1.0.0": {
+        "dependencies": {
+          "Unidad_01_Clases_Ejercicio_03": "1.0.0"
+        },
+        "runtime": {
+          "MiBiblioteca.dll": {}
+        }
+      },
+      "Unidad_01_Clases_Ejercicio_03/1.0.0": {
+        "runtime": {
+          "Unidad_01_Clases_Ejercicio_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unidad_06_Colecc_Ejercicio_C01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unidad_01_Clases_Ejercicio_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
