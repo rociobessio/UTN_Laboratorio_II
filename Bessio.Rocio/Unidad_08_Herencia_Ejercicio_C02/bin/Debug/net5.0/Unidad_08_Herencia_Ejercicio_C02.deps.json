@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unidad_08_Herencia_Ejercicio_C02/1.0.0": {
+        "dependencies": {
+          "MiBiblioteca_EnciendanMotores_Unidad_08": "1.0.0"
+        },
+        "runtime": {
+          "Unidad_08_Herencia_Ejercicio_C02.dll": {}
+        }
+      },
+      "MiBiblioteca_EnciendanMotores_Unidad_08/1.0.0": {
+        "runtime": {
+          "MiBiblioteca_EnciendanMotores_Unidad_08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unidad_08_Herencia_Ejercicio_C02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiBiblioteca_EnciendanMotores_Unidad_08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

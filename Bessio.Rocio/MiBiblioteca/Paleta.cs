@@ -206,6 +206,16 @@ namespace MiBiblioteca
                 }
             }
         }
+        /// <summary>
+        /// PROPIEDAD QUE RETORNA LA CANTIDAD DE TEMPERAS DENTRO DE LA PALETA
+        /// </summary>
+        public int CantidadTemperas
+        {
+            get
+            {
+                return this.temperas.Count;
+            }
+        }
 
         #endregion
     }

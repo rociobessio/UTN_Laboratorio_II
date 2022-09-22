@@ -38,6 +38,38 @@ namespace MiBiblioteca
         }
         #endregion
 
+
+        #region PROPIEDADES (DE LECTURA Y ESCRITURA)
+        /// <summary>
+        /// PROPIEDAD QUE RETORNA LA MARCA DE LA TEMPERA Y A SU VEZ LE SETTEA UN VALOR
+        /// </summary>
+        public string Marca
+        {
+            get
+            {
+                return this.marca;
+            }
+            set
+            {
+                this.marca = value;
+            }
+        }
+        /// <summary>
+        /// PROPIEDAD QUE RETORNA EL COLOR DE LA TEMPERA Y A SU VEZ LE SETTEA UN VALOR
+        /// </summary>
+        public ConsoleColor Color
+        {
+            get
+            {
+                return this.color;
+            }
+            set
+            {
+                this.color = value;
+            }
+        }
+        #endregion
+
         #region SOBRECARGA DE OPERADORES
 
         #region BOOLEANOS
