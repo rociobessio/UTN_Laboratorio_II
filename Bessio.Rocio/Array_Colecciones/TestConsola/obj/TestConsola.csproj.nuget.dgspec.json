@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestConsola\\TestConsola.csproj": {}
+    "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestConsola\\TestConsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestConsola\\TestConsola.csproj": {
+    "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestConsola\\TestConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestConsola\\TestConsola.csproj",
+        "projectUniqueName": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestConsola\\TestConsola.csproj",
         "projectName": "TestConsola",
-        "projectPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestConsola\\TestConsola.csproj",
-        "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestConsola\\obj\\",
+        "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestConsola\\TestConsola.csproj",
+        "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestConsola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj"
+              "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -112,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestEjemploInterface/1.0.0": {
+        "dependencies": {
+          "Interfaces.Ejemplo": "1.0.0"
+        },
+        "runtime": {
+          "TestEjemploInterface.dll": {}
+        }
+      },
+      "Interfaces.Ejemplo/1.0.0": {
+        "runtime": {
+          "Interfaces.Ejemplo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestEjemploInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces.Ejemplo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

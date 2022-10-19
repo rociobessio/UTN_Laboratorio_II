@@ -14,10 +14,14 @@ namespace MiBiblioteca_LaCentralita
 
         #region PROPIEDADES
         /// <summary>
+        /// Centralita II:
+        /// Agrerga la propiedad CostoLlamada
+        /// 
+        /// Centralita I:
         /// La propiedad CostoLlamada retornará el precio, 
         /// que se calculará en el método CalcularCosto.
         /// </summary>
-        public float CostoLlamada { get { return this.CalcularCosto(); } }
+        public override float CostoLlamada { get { return CalcularCosto(); } }
         #endregion
 
         #region CONSTRUCTORES
@@ -43,11 +47,17 @@ namespace MiBiblioteca_LaCentralita
         }
 
         /// <summary>
+        /// Centralita II:
+        /// Sera protegido 
+        /// Reutiliza codigo de la clase base.
+        /// 
+        /// ----
+        /// Centralita I:
         /// Método Mostrar retornará como texto todos los datos de la clase base y 
         /// agregará el costo de la llamada. Utilizar StringBuilder.
         /// </summary>
         /// <returns></returns>
-        public string Mostrar()
+        protected new string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("LOCAL ");
@@ -56,5 +66,33 @@ namespace MiBiblioteca_LaCentralita
             return sb.ToString();
         }
         #endregion
+
+        #region POLIMORFISMO
+        /// <summary>
+        /// El metodo Equals retornara true solo si el objeto que recibe es de tipo Local
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        public override bool Equals(object obj)
+        {
+            bool esEqual = false;
+            if (obj is not null && obj is Local)
+            { 
+                esEqual = true; 
+            }
+            return esEqual;
+        }
+
+        /// <summary>
+        /// El metodo ToStrinh reutilizara el codigo del metodo Mostrar().
+        /// </summary>
+        /// <returns></returns>
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
+        #endregion 
+
     }
 }

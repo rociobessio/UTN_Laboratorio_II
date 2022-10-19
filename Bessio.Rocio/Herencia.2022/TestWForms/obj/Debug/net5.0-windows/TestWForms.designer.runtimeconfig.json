@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\Facundo\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Facundo\\.nuget\\packages"
+      "C:\\Users\\WIN10\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WIN10\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

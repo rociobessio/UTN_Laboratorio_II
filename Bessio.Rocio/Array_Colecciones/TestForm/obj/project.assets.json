@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Facundo\\.nuget\\packages\\": {}
+    "C:\\Users\\WIN10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestForm\\TestForm.csproj",
+      "projectUniqueName": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestForm\\TestForm.csproj",
       "projectName": "TestForm",
-      "projectPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestForm\\TestForm.csproj",
-      "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\TestForm\\obj\\",
+      "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestForm\\TestForm.csproj",
+      "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\TestForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Facundo\\desktop\\Array_Colecciones\\Entidades\\Entidades.csproj"
+            "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Array_Colecciones\\Entidades\\Entidades.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

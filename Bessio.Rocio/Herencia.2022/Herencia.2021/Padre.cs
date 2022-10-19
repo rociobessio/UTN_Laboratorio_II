@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Herencia._2022
 {
-     public class Padre  
+    abstract class Padre  
     {
         #region Atributos
         public int entero;
@@ -38,7 +38,7 @@ namespace Herencia._2022
         #endregion
 
         #region Método
-        public string Mostrar()
+        protected virtual string Mostrar()//Palabra reservada VIRTUAL para la clase PADRE
         {
             StringBuilder sb = new StringBuilder();
 
@@ -46,6 +46,16 @@ namespace Herencia._2022
           
             return sb.ToString();
         }
+
+        public override string ToString()//SOBREESCRIBO toString
+        {
+            return this.ToString();
+        }
         #endregion
+
+
+        public abstract void MetodoAbstracto(string c);
+    
     }
+
 }

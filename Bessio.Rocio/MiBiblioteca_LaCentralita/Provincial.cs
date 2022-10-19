@@ -13,7 +13,7 @@ namespace MiBiblioteca_LaCentralita
         #endregion
 
         #region PROPIEDADES
-        public float CostoLlamada { get { return this.CalcularCosto(); } }
+        public override float CostoLlamada { get { return this.CalcularCosto(); } }
         #endregion
 
         #region CONSTRUCTORES
@@ -57,7 +57,13 @@ namespace MiBiblioteca_LaCentralita
             return base.Duracion * costoFinal;
         }
 
-        public string Mostrar()
+        /// <summary>
+        /// Centralita II:
+        /// El método Mostrar será protegido. Reutilizará el código escrito en la clase base y
+        /// agregará los datos de franjaHoraria y CostoLlamada al texto de retorno. Utilizar StringBuilder.
+        /// </summary>
+        /// <returns></returns>
+        protected new string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.Mostrar());
@@ -65,6 +71,36 @@ namespace MiBiblioteca_LaCentralita
             return sb.ToString();
         }
         #endregion
+
+        #region POLIMORFISMO
+        /// <summary>
+        /// Centralita II:
+        /// El metodo Equals retornara true solo si el objeto que recibe es de tipo Provincial
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        public override bool Equals(object obj)
+        {
+            bool esEqual = false;
+            if (obj is not null && obj is Provincial)
+            {
+                esEqual = true; 
+            }
+            return esEqual;
+        }
+
+        /// <summary>
+        /// El metodo ToStrinh reutilizara el codigo del metodo Mostrar().
+        /// </summary>
+        /// <returns></returns>
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+        #endregion
+
+        #region ENUMERADOS
         public enum Franja { Franja_1, Franja_2, Franja_3 }
+        #endregion
     }
 }

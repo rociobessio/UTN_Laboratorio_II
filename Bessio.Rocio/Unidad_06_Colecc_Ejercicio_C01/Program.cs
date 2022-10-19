@@ -7,11 +7,11 @@ namespace Unidad_06_Colecc_Ejercicio_C01
         static void Main(string[] args)
         {
             #region CREO LOS OBJETOS
-            Equipo equipoList = new Equipo(2,"CCVA");
+            Equipo equipoList = new Equipo(4,"CCVA");
 
             Jugador j1 = new Jugador(456,"Juan",4,6);
             Jugador j2 = new Jugador(56, "GianFranco", 0, 11);
-            Jugador j3 = new Jugador(695, "Tomi", 10, 2);
+            Jugador j3 = new Jugador(56, "Tomi", 10, 2);
             Jugador j4 = new Jugador(7892, "Agus", 7, 10);
             Jugador j5 = new Jugador(563, "JuanCruz", 4, 3);
             #endregion

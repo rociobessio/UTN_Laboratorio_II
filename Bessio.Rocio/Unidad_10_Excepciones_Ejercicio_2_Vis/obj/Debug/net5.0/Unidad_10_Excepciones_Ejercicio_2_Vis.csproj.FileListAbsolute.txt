@@ -1,0 +1,16 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.exe
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.runtimeconfig.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.runtimeconfig.dev.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\ref\Unidad_10_Excepciones_Ejercicio_2_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\bin\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\ref\Unidad_10_Excepciones_Ejercicio_2_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_10_Excepciones_Ejercicio_2_Vis\obj\Debug\net5.0\Unidad_10_Excepciones_Ejercicio_2_Vis.genruntimeconfig.cache

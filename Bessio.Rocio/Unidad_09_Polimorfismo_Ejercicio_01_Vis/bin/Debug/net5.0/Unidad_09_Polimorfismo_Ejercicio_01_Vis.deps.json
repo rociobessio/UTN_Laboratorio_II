@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unidad_09_Polimorfismo_Ejercicio_01_Vis/1.0.0": {
+        "dependencies": {
+          "MiBiblioteca_Unidad_09_Polimorfismo": "1.0.0"
+        },
+        "runtime": {
+          "Unidad_09_Polimorfismo_Ejercicio_01_Vis.dll": {}
+        }
+      },
+      "MiBiblioteca_Unidad_09_Polimorfismo/1.0.0": {
+        "runtime": {
+          "MiBiblioteca_Unidad_09_Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unidad_09_Polimorfismo_Ejercicio_01_Vis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiBiblioteca_Unidad_09_Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

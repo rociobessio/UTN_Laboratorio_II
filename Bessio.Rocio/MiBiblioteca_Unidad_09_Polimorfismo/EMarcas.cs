@@ -1,0 +1,1 @@
+﻿public enum EMarcas { Honda,Ford,Zanella,Scanavia,Iveco,Flat }

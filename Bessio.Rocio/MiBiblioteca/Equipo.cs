@@ -43,25 +43,25 @@ namespace MiBiblioteca
 
         public static bool operator +(Equipo e,Jugador j)
         {
-            bool estaONo = false;
-            //Agrega a la lista siiempre y cuando NO este YA en el equipo y se pueda seguir agregandp
-            if (e.jugadores.Count < e.cantidadDeJugadores )
+            bool rta = false;
+            bool newJugador = true;
+            if (!(e is null) && e.jugadores.Count < e.cantidadDeJugadores)
             {
-                foreach (Jugador objJugador in e.jugadores)//Busco del tipo Jugador dentro de la lista de jugadores
+                foreach (Jugador item in e.jugadores)
                 {
-                    if (objJugador == j)//Me fijo que no este en la lista cpn la sobrecarga del == Jugador
+                    if (item == j)
                     {
-                        estaONo = false;
+                        newJugador = false;
+                        break;
                     }
                 }
-                e.jugadores.Add(j);
-                estaONo = true;
+                if (newJugador)
+                {
+                    e.jugadores.Add(j);
+                    rta = true;
+                }
             }
-            else
-            {
-                estaONo = false;
-            }
-            return estaONo;
+            return rta;
         }
 
         #endregion

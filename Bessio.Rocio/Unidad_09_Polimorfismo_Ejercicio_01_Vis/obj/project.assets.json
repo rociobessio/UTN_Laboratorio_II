@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MiBiblioteca_Unidad_09_Polimorfismo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MiBiblioteca_Unidad_09_Polimorfismo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiBiblioteca_Unidad_09_Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiBiblioteca_Unidad_09_Polimorfismo/1.0.0": {
+      "type": "project",
+      "path": "../MiBiblioteca_Unidad_09_Polimorfismo/MiBiblioteca_Unidad_09_Polimorfismo.csproj",
+      "msbuildProject": "../MiBiblioteca_Unidad_09_Polimorfismo/MiBiblioteca_Unidad_09_Polimorfismo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MiBiblioteca_Unidad_09_Polimorfismo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\WIN10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Unidad_09_Polimorfismo_Ejercicio_01_Vis\\Unidad_09_Polimorfismo_Ejercicio_01_Vis.csproj",
+      "projectName": "Unidad_09_Polimorfismo_Ejercicio_01_Vis",
+      "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Unidad_09_Polimorfismo_Ejercicio_01_Vis\\Unidad_09_Polimorfismo_Ejercicio_01_Vis.csproj",
+      "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\Unidad_09_Polimorfismo_Ejercicio_01_Vis\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\MiBiblioteca_Unidad_09_Polimorfismo\\MiBiblioteca_Unidad_09_Polimorfismo.csproj": {
+              "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\MiBiblioteca_Unidad_09_Polimorfismo\\MiBiblioteca_Unidad_09_Polimorfismo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

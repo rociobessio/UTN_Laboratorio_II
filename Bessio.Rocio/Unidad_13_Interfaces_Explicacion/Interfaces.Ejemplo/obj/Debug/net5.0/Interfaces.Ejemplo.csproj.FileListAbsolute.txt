@@ -1,0 +1,12 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\bin\Debug\net5.0\Interfaces.Ejemplo.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\bin\Debug\net5.0\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\bin\Debug\net5.0\ref\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\bin\Debug\net5.0\Interfaces.Ejemplo.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\ref\Interfaces.Ejemplo.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Interfaces\Interfaces.Ejemplo\obj\Debug\net5.0\Interfaces.Ejemplo.pdb

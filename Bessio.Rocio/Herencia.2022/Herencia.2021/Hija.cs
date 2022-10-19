@@ -27,7 +27,7 @@ namespace Herencia._2022
         #endregion
 
         #region Métodos
-        public string MostrarHija()
+        protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -38,8 +38,16 @@ namespace Herencia._2022
             return sb.ToString();
 
         }
+
+        public override string ToString()
+        {
+            return this.ToString();
+        }
         #endregion
 
-
+        public override void MetodoAbstracto(string c)
+        {
+            Console.WriteLine(c);
+        }
     }
 }

@@ -21,15 +21,20 @@ namespace Herencia._2022
         #endregion
 
         #region Método
-        public string MostrarNieta()
+        protected override string Mostrar()//Palabra reservada OVERRIDE para la clase DERIVADA
         {
             StringBuilder sb = new StringBuilder();
             
-            sb.Append(base.MostrarHija());
+            sb.Append(base.Mostrar());
             sb.AppendLine("Objeto padre derivado:" + this.padre);
 
             return sb.ToString();
 
+        }
+
+        public override string ToString()
+        {
+            return this.ToString();
         }
         #endregion
 

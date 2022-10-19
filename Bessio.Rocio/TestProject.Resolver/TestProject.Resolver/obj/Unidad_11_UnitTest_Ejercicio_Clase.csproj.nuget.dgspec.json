@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\TestProject.Resolver\\Unidad_11_UnitTest_Ejercicio_Clase.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\TestProject.Resolver\\Unidad_11_UnitTest_Ejercicio_Clase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\TestProject.Resolver\\Unidad_11_UnitTest_Ejercicio_Clase.csproj",
+        "projectName": "Unidad_11_UnitTest_Ejercicio_Clase",
+        "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\TestProject.Resolver\\Unidad_11_UnitTest_Ejercicio_Clase.csproj",
+        "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\TestProject.Resolver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\ClassLibraryTest\\ClassLibraryTest.csproj": {
+                "projectPath": "C:\\Users\\WIN10\\Desktop\\FACULTAD ROCIO\\SEGUNDO CUATRIMESTRE 2022\\LABORATORIO II\\Bessio.Rocio\\TestProject.Resolver\\ClassLibraryTest\\ClassLibraryTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

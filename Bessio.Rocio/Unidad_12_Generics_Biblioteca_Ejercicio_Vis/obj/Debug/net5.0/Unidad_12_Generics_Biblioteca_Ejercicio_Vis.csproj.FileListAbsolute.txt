@@ -1,0 +1,12 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\bin\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\bin\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\bin\Debug\net5.0\ref\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\bin\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\ref\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_12_Generics_Biblioteca_Ejercicio_Vis\obj\Debug\net5.0\Unidad_12_Generics_Biblioteca_Ejercicio_Vis.pdb

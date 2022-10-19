@@ -1,0 +1,22 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ClassLibraryTest.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ClassLibraryTest.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ref\ClassLibraryTest.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ClassLibraryTest.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ref\ClassLibraryTest.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ClassLibraryTest.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ClassLibraryTest.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ref\ClassLibraryTest.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\bin\Debug\net5.0\ClassLibraryTest.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ref\ClassLibraryTest.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\TestProject.Resolver\ClassLibraryTest\obj\Debug\net5.0\ClassLibraryTest.pdb
