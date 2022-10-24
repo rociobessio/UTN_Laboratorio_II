@@ -9,7 +9,7 @@ namespace Unidad_13_Interfaces_Biblioteca_Vis
     public interface IAFIP
     {
 
-        void CalcularPrecio() { }
+        void CalcularPrecio();
 
     }
 }

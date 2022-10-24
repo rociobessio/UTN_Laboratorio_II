@@ -8,11 +8,11 @@ namespace Unidad_13_Interfaces_Biblioteca_Vis
 {
     static class Gestion : IAFIP
     {
-
-        static double MostarImpuestoAfip(IAFIP bienPuesto)
+    /*
+        public static double MostarImpuestoAfip(IAFIP bienPuesto)
         {
 
         }
-
+    */
     }
 }

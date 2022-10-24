@@ -19,12 +19,13 @@ using System.Threading.Tasks;
  */
 namespace MiBiblioteca_EnciendanMotores_Unidad_08
 {
-    public class Competencia
+    public class Competencia<T>
+       where T : VehiculoDeCarrera
     {
         #region ATRIBUTOS
         private short cantidadCompetidores;
         private short cantidadVueltas;
-        private List<VehiculoDeCarrera> competidores;
+        private List<T> competidores;
         private TipoCompetencia tipo;
         #endregion
 
@@ -68,10 +69,10 @@ namespace MiBiblioteca_EnciendanMotores_Unidad_08
         #region CONSTRUCTORES
         private Competencia()
         {
-            this.competidores = new List<VehiculoDeCarrera>();
+            this.competidores = new List<T>();
         }
 
-        public Competencia(short cantidadVueltas, short cantidadCompetidores,TipoCompetencia tipo) : this()
+        public Competencia(short cantidadVueltas, short cantidadCompetidores, TipoCompetencia tipo) : this()
         {
             this.cantidadVueltas = cantidadVueltas;
             this.cantidadCompetidores = cantidadCompetidores;
@@ -100,20 +101,20 @@ namespace MiBiblioteca_EnciendanMotores_Unidad_08
         }
 
         #region SOBRECARGA DE OPERADORES
-        public static bool operator +(Competencia c, VehiculoDeCarrera a1)
+        public static bool operator +(T c, VehiculoDeCarrera a1)
         {
             bool estaONo = false;
             if (c is not null && a1 is not null)
             {
                 if (c.competidores.Count < c.cantidadCompetidores)
                 {
-                   /* foreach (AutoF1 objAuto in c.competidores)//Busco que no este en la lista
-                    {
-                        if (objAuto == a1)
-                        {
-                            estaONo = false;
-                        }
-                    }*/
+                    /* foreach (AutoF1 objAuto in c.competidores)//Busco que no este en la lista
+                     {
+                         if (objAuto == a1)
+                         {
+                             estaONo = false;
+                         }
+                     }*/
                     //Si no esta...
                     c.competidores.Add(a1);
                     a1.EnCompetencia = true;
@@ -127,7 +128,7 @@ namespace MiBiblioteca_EnciendanMotores_Unidad_08
             return estaONo;
         }
 
-        public static bool operator -(Competencia c, AutoF1 a1)
+        public static bool operator -( Competencia c, AutoF1 a1)
         {
             bool estaONo = false;
             if (c is not null && a1 is not null)
@@ -148,7 +149,7 @@ namespace MiBiblioteca_EnciendanMotores_Unidad_08
             return estaONo;
         }
 
-        public static bool operator ==(Competencia c, AutoF1 a1)
+        public static bool operator ==(T c, AutoF1 a1)
         {
             bool estaONo = false;
             if (c is not null && a1 is not null)
