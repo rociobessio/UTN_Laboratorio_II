@@ -1,0 +1,12 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\bin\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\bin\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\bin\Debug\net5.0\ref\Unidad_16_Biblioteca_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\bin\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\ref\Unidad_16_Biblioteca_Explicacion.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\Unidad_16_BaseDeDatos_Explicacion\Entidades\obj\Debug\net5.0\Unidad_16_Biblioteca_Explicacion.csproj.AssemblyReference.cache
