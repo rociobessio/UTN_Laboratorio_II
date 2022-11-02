@@ -1,0 +1,16 @@
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.exe
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.deps.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.runtimeconfig.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.runtimeconfig.dev.json
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\ref\Unidad_17_Delegados_Ejercicio_I02.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\bin\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\ref\Unidad_17_Delegados_Ejercicio_I02.dll
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.pdb
+C:\Users\WIN10\Desktop\FACULTAD ROCIO\SEGUNDO CUATRIMESTRE 2022\LABORATORIO II\Bessio.Rocio\I02_El_comparador\Consola\obj\Debug\net5.0\Unidad_17_Delegados_Ejercicio_I02.genruntimeconfig.cache
