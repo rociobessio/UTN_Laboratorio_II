@@ -9,9 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Unidad_16_SQL_Biblioteca_I01;
 
-
-
-
 namespace Unidad_16_SQL_Ejercicio_I01_WinForm
 {
     public partial class FrmMenuCrud : Form
@@ -67,23 +64,28 @@ namespace Unidad_16_SQL_Ejercicio_I01_WinForm
         {
             try
             {
-                int id = Convert.ToInt32(this.dataGridPersonas.SelectedRows[0].Cells[0].Value);//ID esta en la fila 0 y en la celda 0
-                ado.Eliminar(id);
+                if (dataGridPersonas.Rows.Count > 0)
+                {
+                    int id = Convert.ToInt32(this.dataGridPersonas.SelectedRows[0].Cells[0].Value);//ID esta en la fila 0 y en la celda 0
+                    ado.Eliminar(id);
+                }
             }
-            catch (Exception)
+            catch (Exception ex )
             {
-                throw;
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
+            bool todoOk = Validador.ValidarIngresoDatos(txtNombre.Text, txtApellido.Text);
+
             try
             {
                 string nombre = txtNombre.Text;
                 string apellido = txtApellido.Text;
                 int id = Convert.ToInt32(this.dataGridPersonas.SelectedRows[0].Cells[0].Value);//ID esta en la fila 0 y en la celda 0
-                if (Validador.ValidarIngresoDatos(nombre, apellido))
+                if (todoOk)
                 {
                     Persona personaMOdificar = new Persona(id, txtNombre.Text, txtApellido.Text);
                     ado.Modificar(personaMOdificar);
@@ -93,10 +95,9 @@ namespace Unidad_16_SQL_Ejercicio_I01_WinForm
                     this.ErrorShow("ERROR AL INTENTAR CARGAR LOS DATOS, REINTENTE!");
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -111,7 +112,6 @@ namespace Unidad_16_SQL_Ejercicio_I01_WinForm
                 "\nModificar: Se cargan los textBox en el indice indicado dentro del dataGrid y se modifica." +
                 "\nEliminar: Se selecciona desde el dataGrid con un click a quien quiero eliminar de la base de datos.", 
                 "Help", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
         }
 
         #endregion
